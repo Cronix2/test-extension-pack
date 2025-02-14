@@ -1,10 +1,15 @@
 {
-  "name": "test-extension-pack",
+  "name": "cronix2-test-extension-pack",
   "displayName": "test-extension-pack",
   "description": "test",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.97.0"
+  },
+  "publisher": "Cronix2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cronix2/test-extension-pack.git"
   },
   "categories": [
     "Extension Packs"
